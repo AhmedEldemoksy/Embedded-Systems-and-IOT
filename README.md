@@ -5,7 +5,7 @@ This repository contains projects and experiments related to Embedded Systems an
 ## Tools Used
 
 - **Arduino IDE** – [Download Arduino IDE](https://www.arduino.cc/en/software)
-- **Proteus** – [Proteus Design Suite](https://www.labcenter.com/downloads/)
+- **Proteus** – [Proteus Design Suite](https://getintopc.com/softwares/electrical-engineering/proteus-professional-2025-free-download/)
 
 ## Contents
 
